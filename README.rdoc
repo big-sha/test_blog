@@ -1,6 +1,6 @@
 == README
 
-#Testing Rails 4 Apps With RSpec 3: Part I
+# Testing Rails 4 Apps With RSpec 3: Part I
 
 Learning  Ruby on Rails and RSpec following a tutorial on:
 
